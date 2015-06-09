@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D5F5A62A-F041-439A-93B5-32B68035DEDB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Taasky</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>959F74980C034AF789837B2D8DB6EA7185C97BD6</key>
+		<string>https://github.com/f22x/CATransform3DConcat_swift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Taasky 2/Taasky.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>959F74980C034AF789837B2D8DB6EA7185C97BD6</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/f22x/CATransform3DConcat_swift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>959F74980C034AF789837B2D8DB6EA7185C97BD6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>959F74980C034AF789837B2D8DB6EA7185C97BD6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CATransform3DConcat_swift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
